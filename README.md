@@ -18,6 +18,10 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
+```
+NAME: PANIMALAR P
+REGISTER NO: 212222110031
+```
  ```
 import matplotlib.pyplot as plt
 x_val = [0,1,2,3,4,5]
